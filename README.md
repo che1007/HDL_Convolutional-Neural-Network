@@ -1,1 +1,1 @@
-# HDL_Convolutional-Neural-Network
+# HDL_Convolutional Neural Network
